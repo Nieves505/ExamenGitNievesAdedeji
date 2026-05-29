@@ -1,2 +1,2 @@
 # ExamenGitNievesAdedeji
-Archivo README para el examen
+Cambio de texto
